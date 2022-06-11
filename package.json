@@ -1,0 +1,19 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "A Game of 2D Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharyatilak/GameOfLife.git"
+  },
+  "author": "Tilak Acharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acharyatilak/GameOfLife/issues"
+  },
+  "homepage": "https://github.com/acharyatilak/GameOfLife#readme"
+}
